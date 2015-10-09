@@ -1,2 +1,1 @@
-# ws_hcm
-HCM Workstation
+# hcm_ws
